@@ -6571,7 +6571,7 @@ html, body, .container-1{
     height: 512px } }
 
 .bg-img {
-    max-width: 95%;
+    max-width: 100%;
     background-image: url('static/assets/images/e.reid_main.jpeg');
     background-position: center; 
     background-repeat: no-repeat;
@@ -6581,16 +6581,16 @@ html, body, .container-1{
     background-size: 80% auto;} }
 @media (min-width: 576px) {
   .bg-img { 
-    background-size: 50% auto;} }
+    background-size: 45% auto;} }
 @media (min-width: 768px) {
   .bg-img {
-    background-size: 50% auto; } }
+    background-size: 45% auto; } }
 @media (min-width: 992px) {
   .bg-img {
-    background-size: 50% auto;} }
+    background-size: 45% auto;} }
 @media (min-width: 1200px) {
   .bg-img {
-    background-size: 50% auto; } }
+    background-size: 45% auto; } }
 
 .s-fluid {
   width: 75%;
